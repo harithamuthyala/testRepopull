@@ -11,6 +11,8 @@ public with sharing class RestTest {
         Http http = new Http();
         HTTPResponse res = http.send(req);
 
+        
+        //testing in srimani git repo
         System.debug('BODY: '+res.getBody());
         System.debug('STATUS:'+res.getStatus());
         //System.debug('STATUS_CODE:'+res.getStatusCode());
