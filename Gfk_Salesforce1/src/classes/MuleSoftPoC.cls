@@ -11,19 +11,13 @@ public with sharing class MuleSoftPoC {
          String reqBody='[ { "producer": "Workday", "type": "object", "code": "create", "name": "Employee", "guid": "0010N000048bs4iQAA", "description": "An employee has been created in Workday.", "object": { "employeeId": "4711", "employeeName": "Employee One" }, "consumers": "Workday, SAP", "timestamp": "yyyy-MM-dd HH:mm:ss.SSS" }, { "producer": "Workday", "type": "object", "code": "update", "name": "Employee", "guid": "0010N000048bs4iQAA", "description": "An employee has been updated in Workday.", "object": { "employeeId": "4711", "employeeName": "Employee One" }, "consumers": "Workday, SAP", "timestamp": "yyyy-MM-dd HH:mm:ss.SSS" }, { "producer": "Workday", "type": "object", "code": "delete", "name": "Employee", "guid": "0010N000048bs4iQAA", "description": "An employee has been deleted in Workday.", "object": { "employeeId": "4711", "employeeName": "Employee One" }, "consumers": "Workday, SAP", "timestamp": "yyyy-MM-dd HH:mm:ss.SSS" }]';
         req.setEndpoint('https://gfk-eas-event-mock-api.de-c1.eu1.cloudhub.io/api/events');
         req.setBody(reqBody);
-    
         Http http = new Http();
-       
-       //demo
-  
         HTTPResponse res = http.send(req);
-
         System.debug('BODY: '+res.getBody());
         System.debug('STATUS:'+res.getStatus());
         System.debug('STATUS_CODE:'+res.getStatusCode());
-        
         //return new (res.getBody());
-    
-
+       
+       
 }
 }
