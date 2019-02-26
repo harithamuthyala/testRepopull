@@ -11,9 +11,8 @@ public with sharing class RestTest {
         HTTPResponse res = http.send(req);
         System.debug('BODY: '+res.getBody());
         System.debug('STATUS:'+res.getStatus());
-        //System.debug('STATUS_CODE:'+res.getStatusCode());
-        
-        //return new (res.getBody());
+        System.debug('STATUS_CODE:'+res.getStatusCode());
+        return new (res.getBody());
     }
     
 }
