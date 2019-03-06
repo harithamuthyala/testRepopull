@@ -10,8 +10,6 @@ public with sharing class RestTest {
         Http http = new Http();
         HTTPResponse res = http.send(req);
         System.debug('BODY: '+res.getBody());
-        
-        //testing 
         System.debug('STATUS:'+res.getStatus());
         System.debug('STATUS_CODE:'+res.getStatusCode());
         return new (res.getBody());
