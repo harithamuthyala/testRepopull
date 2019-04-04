@@ -2,7 +2,7 @@
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
         <name>EinsteinAssistant</name>
-        <name>assitantProcesser</name>
+        <name>assitantProcesserv2</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
