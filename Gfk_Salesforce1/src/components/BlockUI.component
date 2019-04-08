@@ -16,7 +16,7 @@
             backgroundColor: '#000',
             '-webkit-border-radius': '10px',
             '-moz-border-radius': '10px',
-            backgroundColor: '#001',
+            backgroundColor: '#002',
             opacity: .5,
             color: '#fff'
             } }); 
