@@ -12,7 +12,7 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Community</application>
-        <default>false</default>
+        <default>true</default>
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
