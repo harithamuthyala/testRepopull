@@ -2,7 +2,7 @@
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
         <name>EinsteinAssistant</name>
-        <name>assitantProcesserv11</name>
+        <name>assitantProcesserv89</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
@@ -10,7 +10,7 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>MyDay</name>
+        <name>MyDay123</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
