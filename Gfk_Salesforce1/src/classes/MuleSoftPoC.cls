@@ -1,7 +1,7 @@
 public with sharing class MuleSoftPoC {
    
     public static void oauthLogin() {
-        HttpRequest req = new HttpRequest(); 
+        HttpRequest req = new HttpPostRequest(); 
         req.setHeader('Authorization', 'Basic NDc5MjU2ODhiOTA5NDYwMThmN2IzNDlkNTQ5MjZhNmI6MjM5NWI1NDIzMjk2NDlFODkyZTI1ZTYzOGZBN2NEQjc=');
         req.setHeader('Content-Type', 'application/json');
         req.setHeader('username', '79c814b948344ee09e521d95b9f77aea');
