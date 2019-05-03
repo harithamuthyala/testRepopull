@@ -13,7 +13,7 @@
         j$.blockUI({ css: {
             border: 'none',
             padding: '15px',
-            backgroundColor: '#00021',
+            backgroundColor: '#00009',
             '-webkit-border-radius': '10px',
             '-moz-border-radius': '10px',
             backgroundColor: '#007',
