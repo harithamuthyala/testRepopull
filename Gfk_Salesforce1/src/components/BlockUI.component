@@ -9,7 +9,7 @@
     <script>
      j$ = jQuery.noConflict(); 
 
-    function blockMe() {
+    function blockMe1() {
         j$.blockUI({ css: {
             border: 'none',
             padding: '15px',
