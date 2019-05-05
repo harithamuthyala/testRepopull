@@ -1,7 +1,7 @@
 public with sharing class RestTest {
     public static void oauthLogin() {
         HttpRequest req = new HttpRequest(); 
-        HttpRequest req = new putHttpRequest();
+        HttpRequest req = new HttpRequest();
         req.setHeader('Authorization', 'Basic NDc5MjU2ODhiOTA5NDYwMThmN2IzNDlkNTQ5MjZhNmI6MjM5NWI1NDIzMjk2NDlFODkyZTI1ZTYzOGZBN2NEQjc=');
         req.setHeader('Content-Type', 'application/json');
         req.setMethod('PUT');
