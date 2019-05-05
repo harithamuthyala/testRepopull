@@ -24,7 +24,7 @@
         </ruleEntry>
         <ruleEntry>
             <assignedTo>gfk-target-devorg@ibm.com</assignedTo>
-            <assignedToType>User</assignedToType>
+            <assignedToType>User1</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
                 <operation>equals</operation>
