@@ -108,7 +108,7 @@
         <fullName>CompanyNameLocalLanguage2__c</fullName>
         <externalId>false</externalId>
         <label>Company Name Local Language2</label>
-        <length>40</length>
+        <length>70</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
