@@ -70,8 +70,8 @@
         <fields>Name</fields>
         <fields>Phone</fields>
         <fields>BillingAddress</fields>
-        <fields>Website</fields>
-        <fields>OwnerId</fields>
+        <fields>Websiteadded</fields>
+        <fields>OwnerIdname</fields>
         <label>Account Compact Layout</label>
     </compactLayouts>
     <enableEnhancedLookup>true</enableEnhancedLookup>
