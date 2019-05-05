@@ -6,7 +6,7 @@
             <componentName>console:history</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>notes:utilityBarNoteList</componentName>
+            <componentName>notesforus:utilityBarNoteList</componentName>
         </componentInstances>
         <name>utilityItems</name>
         <type>Region</type>
