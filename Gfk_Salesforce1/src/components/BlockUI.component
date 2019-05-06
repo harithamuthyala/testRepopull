@@ -12,7 +12,7 @@
     function blockMe1() {
         j$.blockUI({ css: {
             border: 'none',
-            padding: '15px',
+            padding: '16px',
             backgroundColor: '#00009',
             '-webkit-border-radius': '10px',
             '-moz-border-radius': '10px',
