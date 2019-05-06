@@ -67,11 +67,11 @@
     <compactLayoutAssignment>Account_Compact_Layout</compactLayoutAssignment>
     <compactLayouts>
         <fullName>Account_Compact_Layout</fullName>
-        <fields>Name</fields>
+        <fields>Nameone</fields>
         <fields>Phone</fields>
         <fields>BillingAddress</fields>
-        <fields>Website</fields>
-        <fields>OwnerId</fields>
+        <fields>Websiteadded</fields>
+        <fields>OwnerIdname</fields>
         <label>Account Compact Layout</label>
     </compactLayouts>
     <enableEnhancedLookup>true</enableEnhancedLookup>
@@ -79,7 +79,7 @@
     <enableHistory>false</enableHistory>
     <fields>
         <fullName>AccountNumber</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
+        <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
         <fullName>AccountSource</fullName>
