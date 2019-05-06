@@ -154,7 +154,7 @@
     </fields>
     <fields>
         <fullName>CreditInfoNumber__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Credit Info Number</label>
         <length>11</length>
         <required>false</required>
