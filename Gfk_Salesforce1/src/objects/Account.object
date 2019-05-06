@@ -168,7 +168,7 @@
     </fields>
     <fields>
         <fullName>District__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>District</label>
         <length>35</length>
         <required>false</required>
