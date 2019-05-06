@@ -67,7 +67,7 @@
     <compactLayoutAssignment>Account_Compact_Layout</compactLayoutAssignment>
     <compactLayouts>
         <fullName>Account_Compact_Layout</fullName>
-        <fields>Nameone</fields>
+        <fields>Name</fields>
         <fields>Phone</fields>
         <fields>BillingAddress</fields>
         <fields>Websiteadded</fields>
