@@ -129,7 +129,7 @@
         <externalId>false</externalId>
         <label>Country Key</label>
         <length>3</length>
-        <required>false</required>
+        <required>true</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>

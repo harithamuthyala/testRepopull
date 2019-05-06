@@ -46,7 +46,7 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>PendingInterviews</name>
+        <name>PendingInterviewsnow</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
 </AppMenu>
