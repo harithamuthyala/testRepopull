@@ -96,7 +96,7 @@
     </fields>
     <fields>
         <fullName>CompanyNameLocalLanguage1__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Company Name Local Language1</label>
         <length>40</length>
         <required>false</required>
