@@ -96,7 +96,7 @@
     </fields>
     <fields>
         <fullName>CompanyNameLocalLanguage1__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Company Name Local Language1</label>
         <length>40</length>
         <required>false</required>
@@ -426,7 +426,7 @@
     </fields>
     <fields>
         <fullName>SBQQ__CoTerminationEvent__c</fullName>
-        <deprecated>false</deprecated>
+        <deprecated>true</deprecated>
         <description>Determines when contracts are co-terminated.</description>
         <externalId>false</externalId>
         <inlineHelpText>Determines when contracts are co-terminated.</inlineHelpText>
