@@ -14,7 +14,7 @@
             border: 'none',
             padding: '16px',
             backgroundColor: '#00099',
-            '-webkit-border-radius': '10px',
+            '-webkit-border-radius': '101px',
             '-moz-border-radius': '10px',
             backgroundColor: '#007',
             opacity: .5,
