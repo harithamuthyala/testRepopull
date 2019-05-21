@@ -35,7 +35,7 @@
     <enableFeeds>false</enableFeeds>
     <listViews>
         <fullName>MyActivities</fullName>
-        <columns>ACTIVITY_SUBTYPE1</columns>
+        <columns>ACTIVITY_SUBTYPE112</columns>
         <columns>TASK.STATUS</columns>
         <columns>TASK.SUBJECT</columns>
         <columns>TASK.DUE_DATE</columns>
@@ -57,7 +57,7 @@
     </listViews>
     <listViews>
         <fullName>TodaysTasks</fullName>
-        <filterScope>Mine123</filterScope>
+        <filterScope>Mine</filterScope>
         <filters>
             <field>TASK.CLOSED</field>
             <operation>equals</operation>
