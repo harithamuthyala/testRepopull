@@ -35,7 +35,7 @@
     <enableFeeds>false</enableFeeds>
     <listViews>
         <fullName>MyActivities</fullName>
-        <columns>ACTIVITY_SUBTYPE1</columns>
+        <columns>ACTIVITY_SUBTYPE112</columns>
         <columns>TASK.STATUS</columns>
         <columns>TASK.SUBJECT</columns>
         <columns>TASK.DUE_DATE</columns>
