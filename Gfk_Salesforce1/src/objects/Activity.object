@@ -56,7 +56,7 @@
         <label>My Team&apos;s Activities</label>
     </listViews>
     <listViews>
-        <fullName>TodaysTasks</fullName>
+        <fullName>TodaysTasks123</fullName>
         <filterScope>Mine</filterScope>
         <filters>
             <field>TASK.CLOSED</field>
