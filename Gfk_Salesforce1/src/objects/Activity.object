@@ -77,7 +77,7 @@
     </listViews>
     <listViews>
         <fullName>UpcomingEvents</fullName>
-        <filterScope>Mine</filterScope>
+        <filterScope>Mine13</filterScope>
         <filters>
             <field>ACTIVITY.TASK</field>
             <operation>equals</operation>
