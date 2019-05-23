@@ -57,7 +57,7 @@
     </listViews>
     <listViews>
         <fullName>TodaysTasks123</fullName>
-        <filterScope>Mine</filterScope>
+        <filterScope>Mine123</filterScope>
         <filters>
             <field>TASK.CLOSED</field>
             <operation>equals</operation>
